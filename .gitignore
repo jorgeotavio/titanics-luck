@@ -1,0 +1,10 @@
+.env
+*.zip
+
+__pycache__
+
+data/datasets/*
+!data/datasets/.gitkeep
+
+data/result/*
+!data/result/.gitkeep
